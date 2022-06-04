@@ -1,0 +1,62 @@
+,Dados,Seleção de feature por RFECV (scoring RMSE) + Regressão linear,Seleção de feature por RFECV (scoring R2a) + Regressão linear,Seleção de feature por RFE (RMSE/iterativa) + Regressão linear,Seleção de feature por RFE (R2a/iterativa) + Regressão linear,Lasso,Ridge,RIDGE (Seleção manual por R2 ajustado),Seleção de feature por RFE (RMSE/iterativa) + Floresta aleatória
+0,NOX2 - 4.csv,"
+R² de treinamento: 0.23616
+R² ajustado de treinamento: 0.19536
+RMSE de treinamento: 124.82259
+MAE de treinamento: 91.29252
+STD input de treinamento: 142.50592
+
+R² de teste: -11.13935
+R² ajustado de teste: -11.78782
+RMSE de teste: 441.64509
+MAE de teste: 111.00757
+STD input de teste: 142.50592
+    ","
+R² de treinamento: 0.23616
+R² ajustado de treinamento: 0.19536
+RMSE de treinamento: 124.82259
+MAE de treinamento: 91.29252
+STD input de treinamento: 142.50592
+
+R² de teste: -11.13935
+R² ajustado de teste: -11.78782
+RMSE de teste: 441.64509
+MAE de teste: 111.00757
+STD input de teste: 142.50592
+    ",,,"
+R² de treinamento: 0.33864
+R² ajustado de treinamento: 0.30332
+RMSE de treinamento: 114.89659
+MAE de treinamento: 82.01628
+STD input de treinamento: 142.50592
+
+R² de teste: 0.16580
+R² ajustado de teste: 0.12124
+RMSE de teste: 130.39901
+MAE de teste: 94.98595
+STD input de teste: 142.50592
+    ","
+R² de treinamento: 0.53527
+R² ajustado de treinamento: 0.51044
+RMSE de treinamento: 96.26803
+MAE de treinamento: 69.96466
+STD input de treinamento: 142.50592
+
+R² de teste: -0.29383
+R² ajustado de teste: -0.36295
+RMSE de teste: 154.74997
+MAE de teste: 112.30800
+STD input de teste: 142.50592
+    ",,"
+R² de treinamento: 0.93371
+R² ajustado de treinamento: 0.93017
+RMSE de treinamento: 36.67950
+MAE de treinamento: 24.54153
+STD input de treinamento: 142.50592
+
+R² de teste: 0.21740
+R² ajustado de teste: 0.17560
+RMSE de teste: 126.21240
+MAE de teste: 90.57147
+STD input de teste: 142.50592
+    "

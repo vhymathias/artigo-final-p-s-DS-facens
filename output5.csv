@@ -1,0 +1,41 @@
+,Dados,Floresta otimizada,Floresta otimizada - best params,Floresta otimizada - feature importance
+0,NOX2 - 4.csv,"
+RMSE de treinamento: 99.84034
+MAE de treinamento: 69.00237
+STD input de treinamento: 142.50592
+
+RMSE de teste: 126.17554
+MAE de teste: 91.27815
+STD input de teste: 142.50592
+
+Proporção Treino/Teste (RMSE): 0.79128
+    ","bootstrap=True,max_depth=4,max_features=0.8,min_samples_leaf=16,min_samples_split=2","                                atributo  importância
+14            Temperatura Zona de queima     0.486591
+15             Temperatura Ar Secundário     0.079456
+6         Momento do Forno - Motor 3 (A)     0.044849
+20                 velocidade do simplex     0.041868
+9                          Carga térmica     0.040459
+4                      Ar radial (mmH2O)     0.033500
+1                    Rotação Forno (rpm)     0.028385
+11                Oxigênio saída Ramal A     0.027956
+17                                K1 SO3     0.021650
+19                             ∆P lado B     0.017709
+18                             ∆P lado A     0.016293
+2                          Pré cal (t/h)     0.015909
+25                           BELITA BETA     0.015662
+0                  Produção clínquer t/h     0.015338
+3                       Ar Axial (mmH2O)     0.014508
+13                    O2 caixa de fumaça     0.012529
+16             Temperatura Ar de excesso     0.010864
+5            Pressão linha coque (mmH2O)     0.010384
+23                              CAOL DRX     0.010164
+22   FL – Fase Líquida Clinquer à 1450°C     0.009752
+24                                 ALITA     0.007121
+7                Camada da Grelha (mbar)     0.006853
+27                            PERICLÁSIO     0.006474
+10  Temperatura saída da torre - ramal A     0.006136
+12         Temperarura do material W2B54     0.005968
+26                            C3A CÚBICO     0.004161
+21   FL – Fase Líquida Clinquer à 1338°C     0.004025
+28                                  #100     0.003971
+8             Velocidade da Grelha (rpm)     0.001465"
